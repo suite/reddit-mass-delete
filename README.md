@@ -4,6 +4,7 @@ reddit-mass-delete is a simple tool to quickly delete all your reddit posts/comm
 ### TODO:
 
  - Implement more options within the config.
+ - Fix iteration bug, current fix is to just rerun the program until all your posts are deleted to your standard.
 
 ### Installation
 Setup:
